@@ -17,6 +17,9 @@ This project analyzes a dataset containing detailed information on various trips
 The dataset was sourced from Kaggle: [Traveler Trip Dataset](https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data)
 
 The CSV file for the project is [Travel details dataset](https://github.com/vnguyen1801/traveler-trip-analysis/blob/main/Travel%20details%20dataset.csv)
+
+You can access the JSON version of the dataset here:  [Traveler Trip JSON](https://vnguyen1801.github.io/traveler-trip-analysis/csvjson.json)
+
 ## Project Objectives
 
 - Perform exploratory data analysis (EDA) to understand the structure and patterns in the data.
