@@ -32,4 +32,4 @@ The dataset was sourced from Kaggle: [Traveler Trip Dataset](https://www.kaggle.
 
 ## GitHub Pages
 
-You can view the project and visualizations here: [GitHub Pages Link](https://yourusername.github.io/repository-name/)
+You can view the project and visualizations here: [GitHub Pages Link](https://vnguyen1801.github.io/traveler-trip-analysis/)
