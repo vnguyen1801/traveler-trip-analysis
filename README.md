@@ -5,12 +5,19 @@
 
 This project analyzes a dataset containing detailed information on various trips taken by travelers. The dataset includes columns such as:
 
-- `trip_id`: Unique identifier for each trip
-- `destination`: Travel destination
-- `start_date`: Start date of the trip
-- `end_date`: End date of the trip
-- `duration`: Duration of the trip in days
-- `purpose`: Purpose of the trip (e.g., business, leisure)
+- **Trip ID** → Unique identifier for each trip  
+- **Destination** → City or country visited  
+- **Start date** → Date the trip began  
+- **End date** → Date the trip ended  
+- **Duration (days)** → Number of days spent on the trip  
+- **Traveler name** → Name of the traveler  
+- **Traveler age** → Age of the traveler at the time of the trip  
+- **Traveler gender** → Gender of the traveler  
+- **Traveler nationality** → Nationality of the traveler  
+- **Accommodation type** → Type of accommodation (hotel, hostel, Airbnb, etc.)  
+- **Accommodation cost** → Cost of accommodation for the entire trip  
+- **Transportation type** → Mode of transportation (plane, train, car, etc.)  
+- **Transportation cost** → Cost of transportation for the entire trip  
 
 ## Dataset Source
 
@@ -29,10 +36,7 @@ The JSON version of the dataset:[Traveler Trip JSON](https://vnguyen1801.github.
 ## Technologies Used
 
 - Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+
 
 ## GitHub Pages
 
