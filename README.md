@@ -33,10 +33,13 @@ The JSON version of the dataset:[Traveler Trip JSON](https://vnguyen1801.github.
 - Visualize trip durations, destinations, and purposes.
 - Identify trends and insights related to travel behaviors.
 
+## Trips by Destination: Traveler Nationality and Accommodation Cost
+
+Folder with files: [D3 page](d3-chart)
+
 ## Technologies Used
 
 - Python
-
 
 ## GitHub Pages
 
