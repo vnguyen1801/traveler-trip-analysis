@@ -35,7 +35,7 @@ The JSON version of the dataset:[Traveler Trip JSON](https://vnguyen1801.github.
 
 ## Trips by Destination: Traveler Nationality and Accommodation Cost
 
-Folder with files: [D3 page]((https://vnguyen1801.github.io/traveler-trip-analysis/d3-chart)
+Folder with files: [D3 page]((https://vnguyen1801.github.io/traveler-trip-analysis/d3-chart/script.js)
 
 ## Technologies Used
 
